@@ -12,4 +12,4 @@ easyconfigs:
       options:
           # see https://github.com/easybuilders/easybuild-easyconfigs/pull/24956
           from-commit: a3bb54895c3de5600fdfd2893a818378daebc7ee
-  - SAMtools-1.22.1-GCC-14.3.0.eb
+  - Biopython-1.86-gfbf-2025b.eb
