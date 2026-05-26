@@ -12,6 +12,7 @@ easyconfigs:
       options:
           # see https://github.com/easybuilders/easybuild-easyconfigs/pull/24956
           from-commit: a3bb54895c3de5600fdfd2893a818378daebc7ee
+  - Biopython-1.86-gfbf-2025b.eb
   - Extrae-5.0.0-gompi-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25798
