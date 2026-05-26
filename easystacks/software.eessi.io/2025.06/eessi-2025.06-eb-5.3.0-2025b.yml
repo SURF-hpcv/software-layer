@@ -12,9 +12,7 @@ easyconfigs:
       options:
           # see https://github.com/easybuilders/easybuild-easyconfigs/pull/24956
           from-commit: a3bb54895c3de5600fdfd2893a818378daebc7ee
-<<<<<<< add_cowsay2
   - Biopython-1.86-gfbf-2025b.eb
-=======
   - Extrae-5.0.0-gompi-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25798
@@ -32,4 +30,3 @@ easyconfigs:
           # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25999
           from-commit: 960bb9bbf98f11ac376f43a3d36d5cf1cedc96f1
   - QuantumESPRESSO-7.5-foss-2025b.eb
->>>>>>> main
